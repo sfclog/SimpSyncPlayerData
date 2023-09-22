@@ -1,0 +1,4 @@
+name: SimpSyncPlayerData
+version: '${project.version}'
+main: me.sfclog.simpsyncplayerdata.Main
+api-version: '1.19'

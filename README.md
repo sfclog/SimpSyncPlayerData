@@ -1,3 +1,4 @@
-#SimpSyncPlayerData | Thay thế SimpPlayerData Sync sử dụng MongoDB
+#SimpSyncPlayerData | Thay thế MySQLPlayerDataBridge và HuskSync sử dụng MongoDB
 
-Nhưng đôi lúc nó không đồng bộ nên không dùng
+Dùng MongoDB để đồng bộ với tốc độ cao 
+Nhưng đôi lúc nó không đồng bộ nên không dùng nữa
